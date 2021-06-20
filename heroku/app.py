@@ -15,7 +15,7 @@ from sklearn.linear_model import LinearRegression
 
 tabtitle = 'Game Start to GG'
 sourceurl = 'https://www.kaggle.com/xtyscut/video-games-sales-as-at-22-dec-2016csv?select=Video_Games_Sales_as_at_22_Dec_2016.csv'
-githublink = 'https://github.com/austinlasseter/agriculture-exports-map'
+githublink = 'https://github.com/tzhang900/ds_capstone/tree/main/heroku'
 genre_options = ['Sports', 'Platform', 'Racing', 'Role-Playing', 'Puzzle', 'Misc', 'Shooter', 'Simulation', 'Action', 'Fighting', 'Adventure', 'Strategy']
 platform_options = ['Wii', 'NES', 'GB', 'DS', 'X360', 'PS3', 'PS2', 'SNES', 'GBA', 'PS4', '3DS', 'N64', 'PS', 'XB', 'PC', '2600', 'PSP', 'XOne', 'WiiU', 'GC', 'GEN', 'DC', 'PSV', 'SAT', 'SCD', 'WS', 'NG', 'TG16', '3DO', 'GG', 'PCFX']
 
